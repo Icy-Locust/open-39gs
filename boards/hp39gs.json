@@ -1,0 +1,13 @@
+{
+	"build": {
+		"f_cpu": "200000000L",
+		"mcu": "s3c2410a"
+	},
+	"name": "hp39gs",
+	"vendor": "HP",
+	"url": "https://en.wikipedia.org/wiki/HP_39/40_series",
+	"upload": {
+		"maximum_ram_size": 262144,
+		"maximum_size": 8388608
+	}
+}

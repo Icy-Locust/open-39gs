@@ -1,0 +1,14 @@
+{
+  "name": "s3c2410",
+  "title": "Samsung ARM9 Soc S3C2410",
+  "description": "ARM920T",
+  "license": "MIT",
+  "keywords": [
+    "arm9",
+    "s3c2410"
+  ],
+  "engines": {
+    "platformio": "^6"
+  },
+  "version": "0.0.1"
+}
